@@ -1,0 +1,14 @@
+{
+  "name": "ai-gateway-poc",
+  "version": "0.1.0",
+  "description": "AI Gateway / Prompt Optimization Platform proof of concept.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
